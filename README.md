@@ -21,7 +21,6 @@ I'm a Statistics Student at UC Davis. Here is my [CV](https://github.com/timothy
 ## Data Analysis Research Projects
 
 Research projects listed chronologically. 
-___
 
 ### Predicting Student Dropouts in Higher Education (March 2023)
 
@@ -48,7 +47,6 @@ Developing a proof-of-concept approach to predicting student dropouts in higher 
  
 Authored with Celine Nygaard Weiseth, Melanie Buck, Leah Khan, and Aurian Saidi
 
-___
 
 ### Housing Price Analysis  (December 2022)
 
@@ -69,8 +67,6 @@ Datasets where acquired by **web-scraping APIs** for housing data and geo-coding
  
 Authored with Melanie Buck, Maha Shafaeen, and Jeff Lee
 
-___
-
 ### Likelihood of Success for Disney+ Shows (June 2022)
 
 A report on identifying the factors that lead to a successful Disney+ Show. Analysis done in R using Linear Regression, Logistic Regression, and k-NN.
@@ -83,7 +79,7 @@ A report on identifying the factors that lead to a successful Disney+ Show. Anal
 
  **Project Summary**
  
-To identify possible factors that are significant to the success of a Disney+ show, we ran **Logistic Regression**, **Linear Regression**, and *k-NN** across 7000+ Dinsey+ show dataset. It was found that certification (ie PG-13) leads to an increase in both audience rating and popularity, while genre showed little significance.
+To identify possible factors that are significant to the success of a Disney+ show, we ran **Logistic Regression**, **Linear Regression**, and **k-NN** across 7000+ Dinsey+ show dataset. It was found that certification (ie PG-13) leads to an increase in both audience rating and popularity, while genre showed little significance.
 
 Authored with Aurora Travers, Hugo Moncada, Maha Shafaeen, and Jeff Lee
 
