@@ -1,8 +1,8 @@
 ## Timothy Shen
 
-I'm a Statistics Student at UC Davis
+I'm a Statistics Student at UC Davis. Here is my [CV](https://github.com/timothyshen213/Predicting-Student-Dropouts-in-Higher-Education/blob/main/Dropouts%20in%20Higher%20Educations.pdf "Predicting Student's Dropout in Higher Education") and [LinkedIn](https://github.com/timothyshen213/Predicting-Student-Dropouts-in-Higher-Education/blob/main/Dropouts%20in%20Higher%20Educations.pdf "Predicting Student's Dropout in Higher Education")
 
-## Research Projects
+## Research Project
 
 ### Modified Analytical Software for the OMF Data Center
 
@@ -18,7 +18,7 @@ I'm a Statistics Student at UC Davis
 <a href="https://www.git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git.svg" alt="Git" width="40px" height="30px"></a>
 , CKAN, Apache Server, R Shiny
 
-## Data Analysis Research Project
+## Data Analysis Research Projects
 
 Research projects listed chronologically. 
 ___
@@ -86,3 +86,9 @@ A report on identifying the factors that lead to a successful Disney+ Show. Anal
 To identify possible factors that are significant to the success of a Disney+ show, we ran **Logistic Regression**, **Linear Regression**, and *k-NN** across 7000+ Dinsey+ show dataset. It was found that certification (ie PG-13) leads to an increase in both audience rating and popularity, while genre showed little significance.
 
 Authored with Aurora Travers, Hugo Moncada, Maha Shafaeen, and Jeff Lee
+
+## Writing
+
+**Literature Review** (March 2023): A review on the potential benefits and limitations of incorporating mobile phone data in estimating sociodemographic attributes in low-income countries. 
+
+**Science Article** (March 2023): An article on recent innovations in machine learning pertaining to assisting targeted humanitarian aid in low-income countries.
