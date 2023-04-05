@@ -1,6 +1,6 @@
 ## Timothy Shen
 
-I'm a Statistics Student at UC Davis. Here is my [CV](https://github.com/timothyshen213/Predicting-Student-Dropouts-in-Higher-Education/blob/main/Dropouts%20in%20Higher%20Educations.pdf "Predicting Student's Dropout in Higher Education") and [LinkedIn](https://github.com/timothyshen213/Predicting-Student-Dropouts-in-Higher-Education/blob/main/Dropouts%20in%20Higher%20Educations.pdf "Predicting Student's Dropout in Higher Education")
+I'm a Statistics Student at UC Davis. Here is my [CV](https://github.com/timothyshen213/timothyshen.github.io/blob/main/Timothy_Shen_CV_3_8.pdf "CV") and [LinkedIn](https://www.linkedin.com/in/timothy-shen-3a7800221/ "linkedin")
 
 ## Research Project
 
@@ -89,6 +89,10 @@ Authored with Aurora Travers, Hugo Moncada, Maha Shafaeen, and Jeff Lee
 
 ## Writing
 
-**Literature Review** (March 2023): A review on the potential benefits and limitations of incorporating mobile phone data in estimating sociodemographic attributes in low-income countries. 
+ - **Unlocking the Power of Mobile Phone Data: A Novel Approach for Sociodemographic Estimation in Low-Income Countries** (March 2023) [pdf](https://github.com/timothyshen213/timothyshen.github.io/blob/main/MobilePhoneData_LiteratureReview.pdf)
 
-**Science Article** (March 2023): An article on recent innovations in machine learning pertaining to assisting targeted humanitarian aid in low-income countries.
+      A *literature review* on the potential benefits and limitations of incorporating mobile phone data in estimating sociodemographic attributes in low-income countries. 
+
+ - **Empowering the Underprivileged: How Machine Learning is Revolutionizing Humanitarian Assistance in Low-Income Countries** (March 2023) [pdf](https://github.com/timothyshen213/timothyshen.github.io/blob/main/ML_Article.pdf)
+ 
+     An article on recent innovations in machine learning pertaining to assisting targeted humanitarian aid in low-income countries.
