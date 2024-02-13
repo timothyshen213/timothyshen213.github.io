@@ -3,8 +3,21 @@
 I'm a Statistics Student at UC Davis. Here is my [CV](https://github.com/timothyshen213/timothyshen.github.io/blob/main/Timothy_Shen_CV_3_8.pdf "CV") and [LinkedIn](https://www.linkedin.com/in/timothy-shen-3a7800221/ "linkedin")
 
 ## Research Project
+### Detecting Loss of Heterozygosity
+*May 2023 - December 2023*
+ - Developed a detection model for Human Leukocyte Antigen (HLA) Loss to identify post-stem cell transplant relapses.
+ - Researched, implemented, and rigorously tested a variety of statistical tests and sampling techniques to assess the quality
+and accuracy of HLA Loss of Heterozygosity detection model.
+ - Performed experimental designs to validate HLA Loss detection model under different real-world cases.
+ - Effectively communicated progress and findings to the research team and client lab centers through comprehensive
+presentations and reports, fostering collaboration in the project.
+Feel free to contact me (*tzshen at ucdavis  dot edu*) if you would like further information on this project.
+
+**Softwares**: Python, Github, Git
+
 
 ### Modified Analytical Software for the OMF Data Center
+*May 2021 - December 2022*
 
 [Radiant](https://radiant-rstats.github.io/docs/) is an open-source browser-based interface for business analytics. In order to cater towards biologists, I modified the existing Radiant packages through **R** and **R Shiny**. The following were the added features.
 
@@ -13,10 +26,7 @@ I'm a Statistics Student at UC Davis. Here is my [CV](https://github.com/timothy
 - **Analysis of Variance (ANOVA) Feature**: Data can now be fitted to an ANOVA Model. Feature offers the ability to customize between one-way and two-way models. (https://github.com/timothyshen213/radiant.model)
 - **Principal Component Analysis (PCA) Feature**: Numerical variables can now be ran through a PCA Analysis. Features also offers the ability to visualize the analysis through biplot and screeplot. (https://github.com/timothyshen213/radiant.multivariate)
 
-<a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="30px" height="30px"></a>
-<a href="https://www.github.com/" title="Github"><img src="https://github.com/get-icon/geticon/raw/master/icons/github.svg" alt="Github" width="40px" height="30px"></a>
-<a href="https://www.git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git.svg" alt="Git" width="40px" height="30px"></a>
-, CKAN, Apache Server, R Shiny
+**Softwares**: R, R Shiny, CKAN, Apache Server
 
 ## Data Analysis Research Projects
 
@@ -31,9 +41,7 @@ Developing a proof-of-concept approach to predicting student dropouts in higher 
 | :---: | :---: | :---: |
 | [pdf](https://github.com/timothyshen213/Predicting-Student-Dropouts-in-Higher-Education/blob/main/Dropouts%20in%20Higher%20Educations.pdf "Predicting Student's Dropout in Higher Education") | [folder](https://github.com/timothyshen213/Predicting-Student-Dropouts-in-Higher-Education/tree/main/Final%20Code) | [csv](https://github.com/timothyshen213/Predicting-Student-Dropouts-in-Higher-Education/blob/main/dataset.csv "IP Portalegre Dataset")
 
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"></a>
-<a href="https://www.github.com/" title="Github"><img src="https://github.com/get-icon/geticon/raw/master/icons/github.svg" alt="Github" width="40px" height="30px"></a>
-<a href="https://www.git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git.svg" alt="Git" width="40px" height="30px"></a>
+**Softwares**: Python, Github, Git
 
  **Project Summary**
  
@@ -57,9 +65,7 @@ Analysis of significant neighborhood characteristics to housing prices in metro 
 | :---: | :---: | :--: |
 | [pdf](https://github.com/timothyshen213/Housing-Price/blob/main/HousingPrice.pdf "How does your neighborhood affect your home value?") | [iPython](https://github.com/timothyshen213/Housing-Price/blob/main/Final%20Code/finalproject.ipynb) | [csv](https://github.com/timothyshen213/Housing-Price/blob/main/Final%20Code/finaldataset.csv) |
 
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"></a>
-<a href="https://www.github.com/" title="Github"><img src="https://github.com/get-icon/geticon/raw/master/icons/github.svg" alt="Github" width="40px" height="30px"></a>
-<a href="https://www.git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git.svg" alt="Git" width="40px" height="30px"></a>
+**Softwares**: Python, Github, Git
 
  **Project Summary**
  
@@ -91,4 +97,4 @@ Authored with Aurora Travers, Hugo Moncada, Maha Shafaeen, and Jeff Lee
 
  - **Empowering the Underprivileged: How Machine Learning is Revolutionizing Humanitarian Assistance in Low-Income Countries** (March 2023) [pdf](https://github.com/timothyshen213/timothyshen.github.io/blob/main/ML_Article.pdf)
  
-     An article on recent innovations in machine learning pertaining to assisting targeted humanitarian aid in low-income countries.
+     An article on recent innovations in machine learning pertaining to assisting targeted humanitarian aid in low-income countries. Won a [Prized Writing award](https://prizedwriting.ucdavis.edu/) at UC Davis for 2023.
