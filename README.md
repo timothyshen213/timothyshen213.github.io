@@ -1,6 +1,6 @@
 ## Timothy Shen
 
-I'm a Statistics Student at UC Davis. Here is my [CV](https://github.com/timothyshen213/timothyshen.github.io/blob/main/Timothy_Shen_CV_3_8.pdf "CV") and [LinkedIn](https://www.linkedin.com/in/timothy-shen-3a7800221/ "linkedin")
+I'm a Statistics Student at UC Davis. Here is my [CV](https://github.com/timothyshen213/timothyshen213.github.io/blob/main/CV_2_24.pdf "CV") and [LinkedIn](https://www.linkedin.com/in/timothy-shen-3a7800221/ "linkedin")
 
 ## Research Project
 ### Detecting Loss of Heterozygosity
