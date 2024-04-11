@@ -1,12 +1,12 @@
-## ${\textbf{Timothy Shen}}$
+# ${\textbf{Timothy Shen}}$
 
 Hi I'm Timothy Shen and I have a passion in statistical research. In March 2024, I graduated from University of California Davis with a Bachelor's in Statistics. In the upcoming Fall 2024, I will be enrolling in a Ph.D. program in Biostatistics. 
 
 Here is my [CV](https://github.com/timothyshen213/timothyshen213.github.io/blob/main/CV_2_24.pdf "CV") and [LinkedIn](https://www.linkedin.com/in/timothy-shen-3a7800221/ "linkedin")
 
-### ${\textbf{Research Projects}}$
----
-### `Detecting Loss of Heterozygosity`
+## ${\textbf{Research Projects}}$
+
+#### `Detecting Loss of Heterozygosity`
 *May 2023 - December 2023*
  - Developed a detection model for Human Leukocyte Antigen (HLA) Loss to identify post-stem cell transplant relapses.
  - Researched, implemented, and rigorously tested a variety of statistical tests and sampling techniques to assess the quality
@@ -19,7 +19,7 @@ Feel free to contact me (*tzshen at ucdavis  dot edu*) if you would like further
 **Softwares**: Python, Github, Git
 
 ---
-### `Modified Analytical Software for the OMF Data Center`
+#### `Modified Analytical Software for the OMF Data Center`
 *May 2021 - December 2022*
 
 [Radiant](https://radiant-rstats.github.io/docs/) is an open-source browser-based interface for business analytics. In order to cater towards biologists, I modified the existing Radiant packages through **R** and **R Shiny**. The following were the added features.
@@ -34,10 +34,10 @@ Feel free to contact me (*tzshen at ucdavis  dot edu*) if you would like further
 ---
 
 
-### <br>  ${\textbf{Data Analysis Projects}}$
+## <br>  ${\textbf{Data Analysis Projects}}$
 
----
-### `Predicting Student Dropouts in Higher`
+
+#### `Predicting Student Dropouts in Higher`
 *Education (March 2023)*
 
 Developing a proof-of-concept approach to predicting student dropouts in higher education. 
@@ -60,7 +60,7 @@ Developing a proof-of-concept approach to predicting student dropouts in higher 
 Authored with Celine Nygaard Weiseth, Melanie Buck, Leah Khan, and Aurian Saidi
 
 ---
-### `Housing Price Analysis`
+#### `Housing Price Analysis`
 *December 2022*
 
 Analysis of significant neighborhood characteristics to housing prices in metro areas (Dallas, Chicago, DC, LA).
@@ -78,7 +78,7 @@ Authored with Melanie Buck, Maha Shafaeen, and Jeff Lee
 
 ---
 
-### `Likelihood of Success for Disney+ Shows`
+#### `Likelihood of Success for Disney+ Shows`
 *June 2022*
 
 A report on identifying the factors that lead to a successful Disney+ Show. Analysis done in R using Linear Regression, Logistic Regression, and k-NN.
@@ -93,7 +93,7 @@ A report on identifying the factors that lead to a successful Disney+ Show. Anal
 
 Authored with Aurora Travers, Hugo Moncada, Maha Shafaeen, and Jeff Lee
 
-### <br>  ${\textbf{Writing/Publications}}$
+## <br>  ${\textbf{Writing/Publications}}$
 
  - **Unlocking the Power of Mobile Phone Data: A Novel Approach for Sociodemographic Estimation in Low-Income Countries** (March 2023) [pdf](https://github.com/timothyshen213/timothyshen.github.io/blob/main/MobilePhoneData_LiteratureReview.pdf)
 
