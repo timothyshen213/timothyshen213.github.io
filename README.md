@@ -1,5 +1,3 @@
-#### Summary
-
 Hi I'm Timothy Shen and I have a passion in statistical research. In March 2024, I graduated from University of California Davis with a Bachelor's in Statistics. In the upcoming Fall 2024, I will be enrolling in a Ph.D. program in Biostatistics. 
 
 Here is my [CV](https://github.com/timothyshen213/timothyshen213.github.io/blob/main/CV_2_24.pdf "CV") and [LinkedIn](https://www.linkedin.com/in/timothy-shen-3a7800221/ "linkedin")
